@@ -1,7 +1,7 @@
 {
-	"name": "n-plus-1-problem",
+	"name": "typeorm-n1-problem",
 	"version": "0.0.1",
-	"description": "",
+	"description": "TypeORM N+1 Problem",
 	"author": "",
 	"private": true,
 	"license": "UNLICENSED",
