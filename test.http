@@ -1,0 +1,13 @@
+@baseUrl=http://localhost:3000 
+
+
+
+### get all companies with employees
+GET {{baseUrl}}/company
+
+
+
+### get company with employees
+@companyId=1
+
+GET {{baseUrl}}/company/{{companyId}}
